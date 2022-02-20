@@ -5,19 +5,32 @@ body{
     padding-top: 160px;
     padding-bottom: 160px;
 }
+[class~="header"]{
+    background-image: url("/sample/Images/one-page/header-background.jpg");
+}
+[class~="skills"]{
+    background-image: url("/sample/Images/one-page/about-us.jpg");
+}
 #contact-btn{
     background-color:#10c9c3;
     font-size: 15px;
 }
-[class~="about"]{
-    padding: 100px 0px 100px 0px;
+[class~="about-skill"]{
+    background-image: url(/sample/Images/about/About.jpg);
+}
+[class~="project-skill"]{
+    background-image: url(/sample/Images/project-single/breakfast.jpg);
 }
 #about{
-    padding: 100px 0px 100px 0px;
+    padding: 60px 0px 60px 0px;
 }
 #skills{
     padding: 100px 70px 100px 70px;
     background-color: #f8f9f9;
+}
+#contact-containter{
+    background-color: #f8f9f9;
+    padding: 70px 50px 70px 50px;
 }
 #progress-bar{
 
@@ -27,3 +40,4 @@ body{
 #numbers{
     background-color: #10c9c3;
 }
+
