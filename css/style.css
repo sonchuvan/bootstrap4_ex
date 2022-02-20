@@ -1,0 +1,29 @@
+body{
+    
+}
+#content{
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+#contact-btn{
+    background-color:#10c9c3;
+    font-size: 15px;
+}
+[class~="about"]{
+    padding: 100px 0px 100px 0px;
+}
+#about{
+    padding: 100px 0px 100px 0px;
+}
+#skills{
+    padding: 100px 70px 100px 70px;
+    background-color: #f8f9f9;
+}
+#progress-bar{
+
+    margin-bottom: 20px;
+    height: 2px;
+}
+#numbers{
+    background-color: #10c9c3;
+}
